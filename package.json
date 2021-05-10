@@ -1,0 +1,16 @@
+{
+  "name": "nodejs-postgresql",
+  "version": "1.0.0",
+  "description": "First contact with nodejs + postgresql",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Lionel Montesdeoca Nuez",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.7",
+    "pg": "^8.6.0"
+  }
+}
